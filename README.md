@@ -5,5 +5,5 @@ good philosophical questions
 - Discuss the difference between information and 
 
 
-# How much is it able to develop a capital as it's maximally excluding the human originated input?
+How much is it able to develop a capital as it's maximally excluding the human originated input?
 In other words, can Y = \alpha*K is possible across all current output Y in society?
